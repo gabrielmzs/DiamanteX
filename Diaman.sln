@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33122.133
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Diaman", "Diaman\Diaman.csproj", "{2CA938C9-6408-4DC9-8A1E-F7678610D57A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2CA938C9-6408-4DC9-8A1E-F7678610D57A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2CA938C9-6408-4DC9-8A1E-F7678610D57A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2CA938C9-6408-4DC9-8A1E-F7678610D57A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2CA938C9-6408-4DC9-8A1E-F7678610D57A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BF82DE88-376D-461B-A900-81F08D23230A}
+	EndGlobalSection
+EndGlobal
